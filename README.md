@@ -8,4 +8,4 @@
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 
 [![minsoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsoku)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoku&layout=compact)](https://github.com/minsoku/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoku&layout=compact)
