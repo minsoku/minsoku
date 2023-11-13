@@ -6,3 +6,5 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+
+[![minsoku's GitHub stats](https://github-readme-stats.vercel.app/api?username=minsoku)](https://github.com/anuraghazra/github-readme-stats)
